@@ -2,3 +2,10 @@ name: RegistrationPlugin
 version: '1.0-SNAPSHOT'
 main: cantina.plugin.registrationPlugin.RegistrationPlugin
 api-version: '1.21'
+commands:
+  info:
+    description: An info command!
+  register:
+    description: Register command!
+  login:
+    description: Login command!
