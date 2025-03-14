@@ -114,10 +114,10 @@ This plugin is released under the MIT License.
 
 
 ## Screenshots 
-![](screenshots/register.png)
+![](Screenshots/register.png)
 
-![](screenshots/login.png)
+![](Screenshots/login.png)
 
-![](screenshots/login-success.png)
+![](Screenshots/login-success.png)
 
-![](screenshots/register-success.png)
+![](Screenshots/register-success.png)
