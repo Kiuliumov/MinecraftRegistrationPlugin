@@ -65,11 +65,6 @@ If the password is correct, the player is logged in and can move and take damage
 This plugin does not require additional permissions for basic functionality, but you can manage access to commands through the permissions plugin of your choice (e.g., [PermissionsEx](https://www.spigotmc.org/resources/permissionsex.202/), [LuckPerms](https://www.spigotmc.org/resources/luckperms.58774/)).
 
 ## Configuration
-!(assets/screenshots/register.png)
-!(assets/screenshots/login.png)
-!(assets/screenshots/login-success.png)
-!(assets/screenshots/register-success.png)
-
 
 - The plugin uses a simple SQLite database to store player information.
 - No external configuration is required out of the box, but you may modify the code or extend it to include a configuration file if desired.
