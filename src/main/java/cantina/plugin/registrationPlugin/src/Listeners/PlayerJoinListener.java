@@ -30,7 +30,7 @@ public class PlayerJoinListener implements Listener {
                 player.sendMessage(ChatColor.GREEN + "Login using /login password");
             } else{
                 player.sendMessage(ChatColor.AQUA + "Register using /register <password> <repeat password>");
-                player.setGameMode(GameMode.SURVIVAL);
+                player.setGameMode(GameMode.SPECTATOR);
                 player.setWalkSpeed(0);
             }
         }
