@@ -1,0 +1,4 @@
+name: RegistrationPlugin
+version: '1.0-SNAPSHOT'
+main: cantina.plugin.registrationPlugin.RegistrationPlugin
+api-version: '1.21'
