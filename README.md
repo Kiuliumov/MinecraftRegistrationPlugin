@@ -105,7 +105,7 @@ CREATE TABLE IF NOT EXISTS players (
 This plugin is released under the MIT License.
 
 
-## BE CAUTIOUS TAHT I ONLY MADE THIS PLUGIN FOR FUN. It's fine for use for smaller scale servers but it uses an SQLite database which cannot handle large amounts of data well, as well as is vunarable to different hacker attacks.
+## BE CAUTIOUS TAHT I ONLY MADE THIS PLUGIN FOR FUN! It's fine for use for smaller scale servers but it uses an SQLite database which cannot handle large amounts of data well, as well as is vunarable to different hacker attacks.
 
 
 ## Screenshots 
@@ -116,3 +116,5 @@ This plugin is released under the MIT License.
 ![](Screenshots/login-success.png)
 
 ![](Screenshots/register-success.png)
+
+## Thanks for the support.
