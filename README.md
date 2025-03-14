@@ -116,5 +116,3 @@ This plugin is released under the MIT License.
 ![](Screenshots/login-success.png)
 
 ![](Screenshots/register-success.png)
-
-## Thanks for the support.
